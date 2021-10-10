@@ -1,14 +1,14 @@
 #!/usr/bin/perl
 
 # Set these for your situation
-my $MTDIR = "/home/fivemowner/fivem_resources /home/fivemowner/fivem_server";
+my $MTDIR = "/home/fivemowner/FXServer";
 my $BACKUPDIR = "/home/fivemowner/backups";
 my $TARCMD = "/bin/tar czf";
 
 #-------------------
 # No changes below here...
 #-------------------
-my $VERSION = "1.0";
+my $VERSION = "1.1";
 
 print "FiveMBackup.pl version $VERSION\n";
 print "========================\n";
